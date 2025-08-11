@@ -8,10 +8,8 @@
 5060004769216 #Sonicthehedgehog
 4005209105798 #Walle
 5055277014187 #Sonicgenerations
-4005209137126 #Smackdownvsraw2011
 5055060961858 #Lostplanet2
 5055060961766 #Darkvoid
-5030917044960 #Transformersthegame
 5051895409411 #Legoninjago
 711719417576 #Spiderman
 4005209132466 #Metro2033
@@ -22,3 +20,8 @@
 5030930077297 #Needforspeedshift
 5055060961360 #Streetfighter4
 5060138436497 #Vikingbattleforasgard
+3348542218994 #Bourne
+5055060962305 #Deadrising2steelbook
+4005209140560 #Smackdownvsraw2011he
+5030917046261 #Transformersthegame
+8023171012957 #Atrainhx
