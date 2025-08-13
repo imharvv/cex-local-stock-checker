@@ -206,6 +206,5 @@
 3348542218994, Sunderland
 3348542218994, Durham
 3348542218994, Arnison Durham
-3307215760390, Durham
 5060004769216, Darlington
 5051895409411, Gateshead Trinity Square
