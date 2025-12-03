@@ -203,3 +203,5 @@ SPS5SD1TB30G002, Salford
 5056280445067, Chippenham
 5060201659457, Glasgow - Union Street
 8436016711234, Coventry Arena Park
+5060201659457, Newcastle under Lyme
+8424365725958, Croydon George St
